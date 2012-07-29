@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="c376a2.AlternateVariant" Collapsed="true">
+    <Position X="1.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAACAAAAAAAAACA=</HashCode>
+      <FileName>AlternateVariant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c376a2.TimeVariant" Collapsed="true">
+    <Position X="3.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>TimeVariant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c376a2.DebugVariant" Collapsed="true">
+    <Position X="5.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>DebugVariant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c376a2.Ent" Collapsed="true">
+    <Position X="9" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAgBgIAAAQACAAQgAoIIIAAEABAAJAABAAQAACBIACA=</HashCode>
+      <FileName>Ent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c376a2.EntAirBalloon" Collapsed="true">
+    <Position X="14.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAACAAAAIgAIAAAAAAAAAAAAAAAIAAAAACA=</HashCode>
+      <FileName>EntAirBalloon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c376a2.EntBalloon" Collapsed="true">
+    <Position X="1.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAgAAAAQACAAAgAgSAAIAAAAAAQACAAAAAAAAAACA=</HashCode>
+      <FileName>EntBalloon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c376a2.EntBalloonSet" Collapsed="true">
+    <Position X="5.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAACAAAAAAAIAAAAAAAAAAAAAAAAAAwAAAA=</HashCode>
+      <FileName>EntBalloonSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c376a2.EntBullet" Collapsed="true">
+    <Position X="10.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAgAAAAAAAgAAAAgAAAAAAAAAAAAAAAAAAQAAAACA=</HashCode>
+      <FileName>EntBullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c376a2.EntManager" Collapsed="true">
+    <Position X="9" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAhCQAYAAAAEIMAAAABAgAAAAAAAABAAAAAEACAAA=</HashCode>
+      <FileName>EntManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c376a2.EntPaperBall" Collapsed="true">
+    <Position X="17" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAQAAAIAAAAAAAAAAAAAAAAAAABAACA=</HashCode>
+      <FileName>EntPaperBall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c376a2.EntPaperPlane" Collapsed="true">
+    <Position X="3.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAACAAQAAAIIAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>EntPaperPlane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c376a2.EntPC" Collapsed="true">
+    <Position X="8" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAgAgAEAACIAAAAgAIAAAAAAIQAAAEAABAIAAAACA=</HashCode>
+      <FileName>EntPC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c376a2.EntText" Collapsed="true">
+    <Position X="12.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAIIAAAAAAAAAACIAAAAAAAAACA=</HashCode>
+      <FileName>EntText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c376a2.Game1" Collapsed="true">
+    <Position X="9" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEEAAAAAAAwQAQAAAAAAAAAAAAAoAAAAAAAAAAAQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c376a2.MenuScreen" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAEAAAAAACAAACAIAAAAAAAAAAAAAAAAAAAIAACQ=</HashCode>
+      <FileName>MenuScreen.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="c376a2.NormalVariant" Collapsed="true">
+    <Position X="3.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACgAAAAABABAAAAAIAAAAAAAgAAQ8AAACAAIICACA=</HashCode>
+      <FileName>NormalVariant.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="c376a2.Program" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c376a2.StoryScreen" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="1.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAAAAAAIAACA=</HashCode>
+      <FileName>StoryScreen.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="c376a2.Switcher" Collapsed="true">
+    <Position X="3.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIIAAAAAgAAAAAAIAAAAAAAAACA=</HashCode>
+      <FileName>Switcher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="c376a2.ThinkDraw" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAIAACA=</HashCode>
+      <FileName>ThinkDraw.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
